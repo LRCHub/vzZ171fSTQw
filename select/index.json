@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "熱狂の捌け口",
+  "base_artist": "乃木坂46",
+  "createdAt": "2026-03-12T12:15:06.454886Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "熱狂の捌け口",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/01_熱狂の捌け口_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "熱狂の捌け口~off vocal ver.~",
+      "artist": "Nogizaka46",
+      "has_synced": false,
+      "path": "select/02_熱狂の捌け口~off_vocal_ver.~_Nogizaka46.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "熱狂の捌け口",
+      "artist": "Nogizaka46",
+      "has_synced": false,
+      "path": "select/pl_01_熱狂の捌け口_Nogizaka46.txt"
+    }
+  ]
+}
